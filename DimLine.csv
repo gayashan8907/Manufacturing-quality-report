@@ -1,0 +1,5 @@
+LineID,LineName,Plant,InstalledYear,RatedCapacityPerHour
+1,Line A - Extrusion,Plant 1 - Sydney,2015,500
+2,Line B - Injection Molding,Plant 1 - Sydney,2018,800
+3,Line C - Assembly,Plant 2 - Melbourne,2012,350
+4,Line D - Machining,Plant 2 - Melbourne,2020,600

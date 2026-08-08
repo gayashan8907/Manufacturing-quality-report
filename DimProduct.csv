@@ -1,0 +1,9 @@
+ProductID,ProductName,Material,UnitCost
+1,Bracket-Steel-A1,Steel,12.5
+2,Bracket-Steel-A2,Steel,14.2
+3,Housing-Alu-B1,Aluminium,22.8
+4,Housing-Alu-B2,Aluminium,25.1
+5,Gear-Poly-C1,Polymer,6.4
+6,Gear-Poly-C2,Polymer,7.1
+7,Panel-Composite-D1,Composite,31.5
+8,Panel-Composite-D2,Composite,33.9

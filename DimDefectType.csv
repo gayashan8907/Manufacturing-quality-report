@@ -1,0 +1,7 @@
+DefectTypeID,DefectType,Severity
+1,Surface Crack,Major
+2,Dimensional Error,Minor
+3,Porosity,Major
+4,Warping,Minor
+5,Incomplete Fill,Critical
+6,Contamination,Major
